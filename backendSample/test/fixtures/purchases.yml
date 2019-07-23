@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  purchaseID: 1
+  user: one
+  datetime: 2019-07-13 18:21:37
+  totalAmount: 1.5
+
+two:
+  purchaseID: 1
+  user: two
+  datetime: 2019-07-13 18:21:37
+  totalAmount: 1.5
